@@ -1,4 +1,7 @@
 function hydrateMyString(str) {
+    if (typeof str !== "string") {
+        throw new TypeError(`Please provide a string not ${typeof str}.`);
+    }
     let hydratedString = "";
     const stringArray = str.split(" ");
     const arrayLength = stringArray.length;
