@@ -1,0 +1,25 @@
+{
+  "name": "hydrate",
+  "version": "1.0.0",
+  "description": "Stay hydrated my friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshiohasegawa/hydrate.git"
+  },
+  "author": "yoshiohasegawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshiohasegawa/hydrate/issues"
+  },
+  "homepage": "https://github.com/yoshiohasegawa/hydrate#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "eslint": "^7.27.0",
+    "mocha": "^8.4.0"
+  }
+}
