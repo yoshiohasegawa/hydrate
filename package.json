@@ -1,7 +1,7 @@
 {
-  "name": "hydrate",
+  "name": "stay-hydrated",
   "version": "1.0.0",
-  "description": "Stay hydrated my friends",
+  "description": "Stay hydrated my friends 💦 ",
   "files": ["*"],
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yoshiohasegawa/hydrate.git"
+    "url": "git+https://github.com/yoshiohasegawa/stay-hydrated.git"
   },
   "author": "yoshiohasegawa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yoshiohasegawa/hydrate/issues"
+    "url": "https://github.com/yoshiohasegawa/stay-hydrated/issues"
   },
-  "homepage": "https://github.com/yoshiohasegawa/hydrate#readme",
+  "homepage": "https://github.com/yoshiohasegawa/stay-hydrated#readme",
   "devDependencies": {
     "chai": "^4.3.4",
     "eslint": "^7.27.0",
