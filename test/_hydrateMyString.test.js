@@ -1,5 +1,5 @@
-const {expect, should} = require("chai");
-const hydrateMyString = require("../");
+const { expect } = require("chai");
+const { hydrateMyString } = require("../src/hydrateMyString");
 
 
 describe("hydrateMyString", function() {
