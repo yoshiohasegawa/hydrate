@@ -1,8 +1,10 @@
 {
   "name": "stay-hydrated",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stay hydrated my friends 💦 ",
-  "files": ["*"],
+  "files": [
+    "*"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "mocha",
