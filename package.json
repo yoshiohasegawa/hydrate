@@ -10,6 +10,11 @@
     "test": "mocha",
     "start": "node index.js"
   },
+  "keywords": [
+    "hydrate",
+    "water",
+    "life"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yoshiohasegawa/stay-hydrated.git"
