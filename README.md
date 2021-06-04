@@ -2,7 +2,7 @@
 
 ## Importing
 ```js
-const hydrateMyString = require("hydrate");
+const hydrateMyString = require("stay-hydrated");
 ```
 
 ## Methods
