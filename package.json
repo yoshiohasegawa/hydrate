@@ -2,6 +2,7 @@
   "name": "hydrate",
   "version": "1.0.0",
   "description": "Stay hydrated my friends",
+  "files": ["*"],
   "main": "index.js",
   "scripts": {
     "test": "mocha",

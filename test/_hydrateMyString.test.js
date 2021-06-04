@@ -41,7 +41,6 @@ describe("hydrateMyString", function() {
       expect(hydrateMyString.bind(hydrateMyString, param2)).to.throw(TypeError);
       expect(hydrateMyString.bind(hydrateMyString, param3)).to.throw(TypeError);
       expect(hydrateMyString.bind(hydrateMyString, param4)).to.throw(TypeError);
-
-
   });
-  });
+
+});
